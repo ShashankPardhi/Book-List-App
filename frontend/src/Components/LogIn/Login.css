@@ -1,0 +1,18 @@
+.login{
+    width: 400px;
+    background: #bd3838;
+    border: 1px solid #dddfe2;
+    box-shadow: 0 2px 4px rgba(24, 7, 7, 0.1), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;    
+    margin: 15% 20% 20% 35%;
+    height: 400px;
+}
+.login button{
+    font-size: 20px;
+    border-radius: 8px;
+    padding:20px 20px 20px 20px ;
+}
+
